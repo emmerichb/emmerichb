@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmerich</h1>
 <h3 align="center">A passionate software developer and political enthusiast</h3>
 
-- 🔭 I’m currently working on a **[the peg game from cracker barrel]([url](https://github.com/emmerichb/cracker-barrel-peg-game))**
+- 🔭 I’m currently working on a **[the peg game from cracker barrel](https://github.com/emmerichb/cracker-barrel-peg-game)**
 
 - 🌱 I’m currently learning more about **rust and python**
 
